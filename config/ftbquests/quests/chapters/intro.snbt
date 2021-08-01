@@ -1,0 +1,32 @@
+{
+	id: "5CEC3E0A89BD70B3",
+	group: "",
+	order_index: 0,
+	filename: "intro",
+	title: "Intro",
+	default_quest_shape: "",
+	quests: [{
+		x: 0.0d,
+		y: 0.0d,
+		id: "2697F3F1B5DA02A3",
+		tasks: [{
+			id: "7F0C224A8081DE4B",
+			type: "checkmark",
+			title: "You are all bitches",
+			icon: "tombstone:impregnated_diamond"
+		}],
+		rewards: [
+			{
+				id: "63ACE352D6A049BD",
+				type: "item",
+				item: "usefulbackpacks:backpack_small"
+			},
+			{
+				id: "50C033F67AE4393B",
+				type: "item",
+				item: "minecraft:cooked_mutton",
+				count: 12
+			}
+		]
+	}]
+}
